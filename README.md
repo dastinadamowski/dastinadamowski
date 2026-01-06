@@ -49,5 +49,3 @@ I advise founders and startups on **Product Strategy**, **AI Transformation**, a
 
 * [**LinkedIn**](https://www.linkedin.com/in/dastin-adamowski/) – My primary channel for deep-dive content.
 * **Email:** `dastin@chronofy.xyz`
-
-![Dastin's GitHub stats](https://github-readme-stats.vercel.app/api?username=dastinadamowski&show_icons=true&theme=radical)
