@@ -48,4 +48,4 @@ We are in a 3-4 year window where individual leverage outweighs institutional si
 I advise founders and startups on **Product Strategy**, **AI Transformation**, and **Web3 Go-to-Market**.
 
 * [**LinkedIn**](https://www.linkedin.com/in/dastin-adamowski/) – My primary channel for deep-dive content.
-* **Email:** `dastin@chronofy.xyz`
+* **Email:** `dastin@chronofy.pl`
