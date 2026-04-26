@@ -30,10 +30,10 @@ I believe reality has changed: the modern Product Manager must be a builder. I u
 
 ### 🧰 My Stack (The "Manager-Builder" Kit)
 
-* **AI & Automation:** `n8n`, `Cursor`, `Claude 3.5`, `OpenAI API`, `Perplexity`
+* **AI & Automation:** `n8n`, `Antigravity`, `Claude 4.7`, `OpenAI API`, `Perplexity`
 * **Product:** `Figma` (Prototyping), `Linear/Jira` (Ticket Ops), `Notion` (Knowledge Systems)
 * **Analytics:** `PostHog`, `Dune Analytics`, `SQL`, `Google Analytics`
-* **Web3:** `Solidity` (Logic), `Tokenomics Design`, `Smart Contract Audits`
+* **Web3:** `Solidity` (Logic), `Tokenomics Design`, `Smart Contracts`
 
 ---
 
@@ -45,7 +45,7 @@ We are in a 3-4 year window where individual leverage outweighs institutional si
 ---
 
 ### 📫 Connect with me
-I advise founders and startups on **Product Strategy**, **AI Transformation**, and **Web3 Go-to-Market**.
+I advise founders and startups on **Product Strategy**, **AI Transformation**, and **Go-to-Market & Growth**.
 
 * [**LinkedIn**](https://www.linkedin.com/in/dastin-adamowski/) – My primary channel for deep-dive content.
 * **Email:** `dastin@chronofy.pl`
